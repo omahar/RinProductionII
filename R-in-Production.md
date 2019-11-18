@@ -1,8 +1,8 @@
 ---
-title: "R in Production, Part II"
-subtitle: "Aurora Coop's Environment"
-author: "Kelly Pook"
-date: "7 November 2019"
+# R in Production, Part II
+## "Aurora Coop's Environment"
+Author: "Kelly Pook"
+Date: 7 November 2019
 ---
 
 class: left, left
