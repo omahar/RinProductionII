@@ -3,13 +3,6 @@ title: "R in Production, Part II"
 subtitle: "Aurora Coop's Environment"
 author: "Kelly Pook"
 date: "7 November 2019"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
 ---
 
 class: left, left
