@@ -1,13 +1,9 @@
 ---
 # R in Production, Part II
-## "Aurora Coop's Environment"
-Author: "Kelly Pook"
-Date: 7 November 2019
+## Aurora Coop's Environment
+### Kelly Pook
+### 7 November 2019
 ---
-
-class: left, left
-
-
 ## Where we started...
 
 - Developed scripts locally
@@ -39,9 +35,6 @@ class: left, left
 - Monitoring
   
 ---
-
-class: center, middle 
-
 # So why Docker?
 
 ![Docker](Moby-logo.png)
@@ -175,7 +168,6 @@ https://medium.com/tmobile-tech/r-can-api-c184951a24a3
 
 
 ---
-class: middle, center
 
 # Questions?
 
